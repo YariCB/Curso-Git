@@ -1,0 +1,25 @@
+[33mcommit aa9e1de4fb199a2027535ec069907cfc300f5a74[m[33m ([m[1;32magregar-texto-titulo[m[33m)[m
+Author: YariCB <yarimucutu@gmail.com>
+Date:   Tue Oct 6 11:16:02 2020 -0400
+
+    Modificación de colores y título
+
+[33mcommit f2f92bb9d63456b131245c147fa22d95db1ef4c9[m
+Author: YariCB <yarimucutu@gmail.com>
+Date:   Tue Oct 6 10:58:52 2020 -0400
+
+    Revert "Cambio color de fondo y agregamos nuevos títulos"
+    
+    This reverts commit 4e9338b567961bf91417f9932ad3c38a3d7d49f2.
+
+[33mcommit 4e9338b567961bf91417f9932ad3c38a3d7d49f2[m
+Author: YariCB <yarimucutu@gmail.com>
+Date:   Tue Oct 6 10:56:01 2020 -0400
+
+    Cambio color de fondo y agregamos nuevos títulos
+
+[33mcommit 45f2168eb74e7dcf28a0016380b8021f0e435185[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: YariCB <yarimucutu@gmail.com>
+Date:   Wed Sep 30 15:40:57 2020 -0400
+
+    Modificación color fondo (a naranja) de página web
